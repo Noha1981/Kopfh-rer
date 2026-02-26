@@ -71,7 +71,6 @@ weiterverwendbar.
     ├── KomplettRendering.png
     ├── KopfhoererAussen.png
     ├── KopfhoererOffen.png
-    ├── Kopfhoerer.zip
     │
     ├── /Textures
     │   ├── *_BaseColor_2K.*
@@ -80,18 +79,6 @@ weiterverwendbar.
     │   └── *_Height_2K.*
     │
     └── Blender Projektdatei(en)
-
-------------------------------------------------------------------------
-
-## ⬇ Download
-
-Das vollständige Asset (inkl. Blender-Datei, Texturen und Renderings)
-steht als Release bereit:
-
-**Kopfhoerer.zip**
-
-Die ZIP-Datei enthält alle notwendigen Dateien zur direkten
-Weiterverwendung.
 
 ------------------------------------------------------------------------
 
